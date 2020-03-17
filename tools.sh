@@ -20,7 +20,7 @@ red='\e[1;31m'
 figlet Tools | lolcat
 
 echo -e  "__________________________________________________"
-echo -e  "Tools    : Aldi S                $white         " |lolcat
+echo -e  "Tools    : Figther DarkNet  $white         " |lolcat
 echo -e  "Author : BOT - Rz42 $white   " |lolcat
 echo -e  "Whatshapp : +62 857 5536 5813 $white " |lolcat
 echo -e  "__________________________________________________"
